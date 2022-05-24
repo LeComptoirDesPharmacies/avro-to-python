@@ -55,11 +55,11 @@ setup(
     long_description=readme + '\n\n' + history,
     include_package_data=True,
     keywords='avro-to-python',
-    name='avro_to_python',
+    name='lcdp_avro_to_python',
     packages=find_packages(include=['avro_to_python', 'avro_to_python.*']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/srserves85/avro-to-python',
+    url='https://github.com/LeComptoirDesPharmacies/avro-to-python',
     version='0.3.3',
     zip_safe=False,
 )
