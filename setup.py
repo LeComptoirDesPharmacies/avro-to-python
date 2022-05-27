@@ -60,6 +60,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/LeComptoirDesPharmacies/avro-to-python',
-    version='0.3.3-0',
+    version='0.3.3-3',
     zip_safe=False,
 )
